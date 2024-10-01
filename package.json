@@ -1,6 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "deploy": "now && now alias"
-  }
-}
